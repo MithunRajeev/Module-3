@@ -1,12 +1,9 @@
 # Exp.No:3a
 ## STRING - FIND AND REPLACE
 
----
-
 ### AIM  
 To write a Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user.
 
----
 
 ### ALGORITHM
 
@@ -18,13 +15,22 @@ To write a Python function to accept a string, identify a word to be replaced, a
 6. Display the original string (`str1`) and the modified string (`str3`).  
 7. Terminate the program.
 
----
 
 ### PROGRAM
 
 ```
+# Reg.No-212223060159
+# Name-MITHUNRAJEEV V
+
+def joinstring(s):
+    s1 = '-'.join(s)
+    print(s1)
+
+
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/502d36ef-2cb8-40c1-a0c8-56a66fdac73c)
 
 ### RESULT
+Thus the program that defines a function to accept a string and join its characters using the hyphen (-) symbol has been implemented and executed successfully.
