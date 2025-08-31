@@ -1,12 +1,9 @@
 # Exp.No:3e
 ## SEB - STRING SLICING
 
----
-
 ### AIM  
 To write a Python function that accepts a string and forms a new string by reversing the characters from the **4th position to the 10th position** with **alternate characters**, and then prints the new string.
 
----
 
 ### ALGORITHM
 
@@ -18,13 +15,22 @@ To write a Python function that accepts a string and forms a new string by rever
 6. Print the final processed string.  
 7. Terminate the program.
 
----
 
 ### PROGRAM
 
 ```
+# Reg.No-212223060159
+# Name-MITHUNRAJEEV V
+
+def splitstring(a):
+    x = a.split('@')
+    print(x)
+
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/81e03f0c-9a0d-4811-afa9-f56ea4d0e55b)
+
 
 ### RESULT
+Thus the program that splits an email ID string into two parts using the "@" symbol has been implemented and executed successfully.
